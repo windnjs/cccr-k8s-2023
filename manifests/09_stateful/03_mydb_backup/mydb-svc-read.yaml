@@ -11,4 +11,4 @@ spec:
     port: 3306
   selector:
     app: mydb
-    app.kubernetes.io/name: mysql
+    app.kubernetes.io/name: mydb
